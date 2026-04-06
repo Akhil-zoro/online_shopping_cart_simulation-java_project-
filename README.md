@@ -162,12 +162,12 @@ Includes:
 🗂️ Project Structure
 
 MainMenu.java
-Auth.java
-UserSession.java
-CategoryMenu.java
-ProductByCategory.java
-AddToCart.java
-ViewCart.java
+-Auth.java
+-UserSession.java
+-CategoryMenu.java
+-ProductByCategory.java
+-AddToCart.java
+-ViewCart.java
 Billing.java
 OrderHistory.java
 Favorites.java
