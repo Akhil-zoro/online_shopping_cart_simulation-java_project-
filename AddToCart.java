@@ -3,7 +3,7 @@ import java.util.Scanner;
 
 public class AddToCart {
 
-    public static void add() {
+    public static void add() {                  // add funtion
         Scanner sc = new Scanner(System.in);
 
         if (!UserSession.isLoggedIn()) {
