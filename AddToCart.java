@@ -20,7 +20,7 @@ public class AddToCart {
         if (qty <= 0) {
             System.out.println("❌ Quantity must be greater than zero.");
             return;
-        }
+        }//hchecking
 
         try {
             Connection con = DBConnection.getConnection();
