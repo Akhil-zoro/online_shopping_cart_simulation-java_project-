@@ -33,7 +33,7 @@ A full-stack **E-Commerce Web Application** that allows users to browse products
 
 | Layer        | Technology |
 |-------------|------------|
-| Frontend     | HTML, CSS, JavaScript |
+| Frontend     |  |
 | Backend      | Java |
 | Database     | MySQL |
 | Tools        | Git, GitHub |
