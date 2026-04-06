@@ -41,17 +41,18 @@ A full-stack **E-Commerce Web Application** that allows users to browse products
 ---
 
 ## 📂 Project Structure
-## 📂 Project Structure
 
 ```text
-Ecommerce-System/ | ├── frontend/ | ├── index.html | ├── login.html | ├── register.html | ├── cart.html | └── styles/ | └── style.css | ├── backend/ | ├── controllers/ | ├── UserController.java | ├── ProductController.java | ├── models/ | ├── User.java | ├── Product.java | ├── services/ | ├── UserService.java | ├── ProductService.java | ├── database/ | └── DBConnection.java | ├── database/ | └── schema.sql | ├── README.md | └── .gitignore
-│ │ └── ProductService.java
-│ │
-│ └── database/
-│ └── DBConnection.java
-│
-├── database/
-│ └── schema.sql
-│
-├── README.md
-└── .gitignore
+
+---
+
+### ✅ Clean Alternative (slightly spaced, same style)
+
+```markdown
+```text
+main/
+├── MainMenu.java | Auth.java | UserSession.java
+├── CategoryMenu.java | ProductByCategory.java
+├── AddToCart.java | ViewCart.java | Billing.java
+├── OrderHistory.java | Favorites.java | AddressManager.java
+├── AdminReset.java | DBConnection.java | ReservationConfig.java
