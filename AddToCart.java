@@ -41,7 +41,7 @@ public class AddToCart {
             if (!rs1.next()) {
                 System.out.println("❌ Product not found!");
                 return;
-            }
+            }//akkinayani//
 
             int stock = rs1.getInt("stock");
 
