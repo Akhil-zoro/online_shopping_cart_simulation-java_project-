@@ -42,17 +42,17 @@ A full-stack **E-Commerce Web Application** that allows users to browse products
 
 ## 📂 Project Structure
 
-```text
 
 ---
 
-### ✅ Clean Alternative (slightly spaced, same style)
+### 🔥 Clean Premium Version (better spacing + icons)
 
 ```markdown
 ```text
-main/
-├── MainMenu.java | Auth.java | UserSession.java
-├── CategoryMenu.java | ProductByCategory.java
-├── AddToCart.java | ViewCart.java | Billing.java
-├── OrderHistory.java | Favorites.java | AddressManager.java
-├── AdminReset.java | DBConnection.java | ReservationConfig.java
+📦 main/
+├── ☕ MainMenu.java | ☕ Auth.java | ☕ UserSession.java
+├── ☕ CategoryMenu.java | ☕ ProductByCategory.java
+├── ☕ AddToCart.java | ☕ ViewCart.java | ☕ Billing.java
+├── ☕ OrderHistory.java | ⭐ Favorites.java | 📍 AddressManager.java
+├── 🔐 AdminReset.java | 🗄️ DBConnection.java | ⚙️ ReservationConfig.java
+└── 📄 README.md
