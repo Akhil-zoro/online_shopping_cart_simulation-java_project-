@@ -49,12 +49,26 @@ Ecommerce-System/
 │ ├── register.html
 │ ├── cart.html
 │ └── styles/
+│ └── style.css
 │
 ├── backend/
 │ ├── controllers/
+│ │ └── UserController.java
+│ │ └── ProductController.java
+│ │
 │ ├── models/
+│ │ └── User.java
+│ │ └── Product.java
+│ │
 │ ├── services/
+│ │ └── UserService.java
+│ │ └── ProductService.java
+│ │
 │ └── database/
+│ └── DBConnection.java
+│
+├── database/
+│ └── schema.sql
 │
 ├── README.md
 └── .gitignore
