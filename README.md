@@ -1,6 +1,6 @@
 # 🛒 E-Commerce Product Listing & Cart System
 
-A full-stack **E-Commerce Web Application** that allows users to browse products, add items to cart, and manage purchases, while providing admin controls for product management.
+A full-stack **E-Commerce Desktop Application** that allows users to browse products, add items to cart, and manage purchases, while providing admin controls for product management.
 
 ---
 
