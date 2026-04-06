@@ -50,9 +50,11 @@ A full-stack **E-Commerce Desktop Application** that allows users to browse prod
 ```markdown
 ```text
 📦 main/
-├── ☕ MainMenu.java | ☕ Auth.java | ☕ UserSession.java
-├── ☕ CategoryMenu.java | ☕ ProductByCategory.java
-├── ☕ AddToCart.java | ☕ ViewCart.java | ☕ Billing.java
-├── ☕ OrderHistory.java | ⭐ Favorites.java | 📍 AddressManager.java
-├── 🔐 AdminReset.java | 🗄️ DBConnection.java | ⚙️ ReservationConfig.java
-└── 📄 README.md
+     |-JAVA PROJECT
+     |    |
+     |    ├── ☕ MainMenu.java | ☕ Auth.java | ☕ UserSession.java
+     |    ├── ☕ CategoryMenu.java | ☕ ProductByCategory.java
+     |    ├── ☕ AddToCart.java | ☕ ViewCart.java | ☕ Billing.java
+     |    ├── ☕ OrderHistory.java | ⭐ Favorites.java | 📍 AddressManager.java
+     |    ├── 🔐 AdminReset.java | 🗄️ DBConnection.java | ⚙️ ReservationConfig.java
+     └── 📄 README.md
